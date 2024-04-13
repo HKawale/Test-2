@@ -15,7 +15,9 @@ The following illustration gives an overview of the ball valve.
 
 ![Process Overview](https://github.com/HKawale/Test-2/assets/89123158/8ae04ad2-e26b-4cf8-941c-8dd028fe2fff)
 
-Fig. 3-1 Process overview
+Fig. 3-1 Process overview[^1]
+
+[^1]: This is a representative image. Actual product may vary.
 
 1. Valve stem
 2. O-rings
@@ -23,8 +25,8 @@ Fig. 3-1 Process overview
 4. Ball
 5. Ball Valve seat
    
-The valve stem (1) is connected to the ball (4). The ball is supported and sealed
-by the ball valve seat (5). and there are o-rings (2) around the valve stem for
-smooth operation. All parts are included in the valve housing (3). The ball has
+The valve stem **(1)** is connected to the ball **(4)**. The ball is supported and sealed
+by the ball valve seat **(5)**. and there are o-rings **(2)** around the valve stem for
+smooth operation. All parts are included in the valve housing **(3)**. The ball has
 a bore through it. When the valve stem is turned a quarter-turn the bore is either
 open to the flow allowing media to flow through or closed to prevent media flow.
