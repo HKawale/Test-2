@@ -4,10 +4,12 @@ A ball valve is a flow control device which uses a hollow, perforated and pivoti
 ball to control fluid flowing through it. It is open when the ball's hole is in line
 with the flow inlet and closed when it is pivoted 90-degrees by the valve handle,
 blocking the flow. 
+
 The handle lies flat in alignment with the flow when open,
 and is perpendicular to it when closed, making for easy visual confirmation
 of the valve's status. The shut position 1/4 turn could be in either clockwise
 or counter-clockwise direction.
+
 ## 3.2 Ball valve parts and working principle
 The following illustration gives an overview of the ball valve.
 
