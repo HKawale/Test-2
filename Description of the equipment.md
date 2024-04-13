@@ -11,6 +11,7 @@ or counter-clockwise direction.
 The following illustration gives an overview of the ball valve.
 
 ![Process Overview](https://github.com/HKawale/Test-2/assets/89123158/8ae04ad2-e26b-4cf8-941c-8dd028fe2fff)
+
 Fig. 3-1 Process overview
 
 1. Valve stem
