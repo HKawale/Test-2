@@ -7,7 +7,7 @@ blocking the flow. The handle lies flat in alignment with the flow when open,
 and is perpendicular to it when closed, making for easy visual confirmation
 of the valve's status. The shut position 1/4 turn could be in either clockwise
 or counter-clockwise direction.
-3.2 Ball valve parts and working principle
+## 3.2 Ball valve parts and working principle
 The following illustration gives an overview of the ball valve.
 
 ![Process Overview](https://github.com/HKawale/Test-2/assets/89123158/8ae04ad2-e26b-4cf8-941c-8dd028fe2fff)
